@@ -24,12 +24,12 @@ setup(
     url='https://github.com/PickNikRobotics/picknik_ament_copyright',
     classifiers=[
         'Intended Audience :: Developers',
-        'License :: OSI Approved :: Apache Software License',
+        'License :: OSI Approved :: BSD 3-Clause License',
         'Programming Language :: Python',
         'Topic :: Software Development',
     ],
     description='Check source files for PickNik-specific copyright reference.',
-    license='Apache License, Version 2.0',
+    license='BSD',
     tests_require=['pytest'],
     entry_points={
         'ament_copyright.copyright_name': [
