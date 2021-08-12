@@ -32,4 +32,4 @@ from ament_copyright.licenses import read_license_data
 
 TEMPLATE_DIRECTORY = os.path.join(os.path.dirname(__file__), 'template')
 
-picknik_proprietary = read_license_data(TEMPLATE_DIRECTORY, 'PickNik Proprietary License', 'picknik_proprietary')
+picknik_proprietary = read_license_data(TEMPLATE_DIRECTORY, 'PickNik Proprietary License', 'PickNik', 'picknik_proprietary')
