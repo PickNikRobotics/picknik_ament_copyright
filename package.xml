@@ -7,7 +7,7 @@
     Check PickNik-specific copyright headers.
   </description>
   <maintainer email="joseph.schornak@picknik.ai">Joe Schornak</maintainer>
-  <license>BSD</license>
+  <license>BSD-3-Clause</license>
 
   <exec_depend>ament_copyright</exec_depend>
 
